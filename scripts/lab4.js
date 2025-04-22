@@ -18,6 +18,7 @@ function sumValues(num1, num2, add) {
     }
 }
 
+
 /**
  * 
  * @param {*} prices, an array of the original price.
